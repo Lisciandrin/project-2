@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'Kanit-M';
+    src: url(../fonts/Kanit/Kanit-Medium.ttf);
+}
+
+@font-face {
+    font-family: 'Kanit-R';
+    src: url(../fonts/Kanit/Kanit-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'Kanit-L';
+    src: url(../fonts/Kanit/Kanit-Light.ttf);
+}
+
+@font-face {
+    font-family: 'Kanit-EL';
+    src: url(../fonts/Kanit/Kanit-ExtraLight.ttf);
+}
